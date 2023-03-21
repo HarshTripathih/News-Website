@@ -14,8 +14,8 @@ import _ from 'lodash';
 const News = (props) => {
   // const apiKey = "34151da7741b4e8e8b716860c2a11853";
   // const apiKey = "6fda8cc2e0884dbdb33f10df53ce9ddb"
-  // const apiKey = "076f11c98ae14599bab2a1ffe9be17eb";
-  const apiKey = process.env.REACT_APP_APIKEY;
+  const apiKey = "076f11c98ae14599bab2a1ffe9be17eb";
+  // const apiKey = process.env.REACT_APP_APIKEY;
 
 
 
